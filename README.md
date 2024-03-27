@@ -5,3 +5,8 @@ This project is a simple web application that displays weather information. User
 -Enter the desired city in the search box on the main page and press Enter or click the search button.<br/>
 -The application will display the current weather information for the searched city, including temperature, humidity, wind speed, and weather description.<br/>
 -Users can also view additional details such as hourly and weekly forecasts by navigating through the provided tabs.
+
+### Technologies Used
+-HTML<br/>
+-CSS<br/>
+-JavaScript
