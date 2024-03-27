@@ -10,3 +10,6 @@ This project is a simple web application that displays weather information. User
 -HTML<br/>
 -CSS<br/>
 -JavaScript
+### Acknowledgements
+-Weather data is retrieved from OpenWeather API.<br/>
+-This project was created as part of a learning exercise.
