@@ -1,5 +1,4 @@
 //! CHOSING ELEMENTS
-
 const container = document.querySelector(".container");
 const searchInput = document.querySelector("#searchInput");
 const cityName = document.querySelector(".cityName");
