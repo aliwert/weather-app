@@ -11,5 +11,5 @@ This project is a simple web application that displays weather information. User
 - CSS
 - JavaScript
 ## Acknowledgements
--Weather data is retrieved from OpenWeather API.<br/>
--This project was created as part of a learning exercise.
+- Weather data is retrieved from OpenWeather API.<br/>
+- This project was created as part of a learning exercise.
